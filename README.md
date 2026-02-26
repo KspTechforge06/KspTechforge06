@@ -14,17 +14,33 @@ I love turning **crazy ideas** into **real, working products**. From solving dai
 
 ### 🚀 What I'm Currently Doing
 
-- 🧠 Learning **CAD** and **Java**
+- 🧠 Learning ROS 
 - 🔧 Building **real-world IoT projects**
 - 🤝 Exploring collaborations and open-source
 
 ---
 
-### 🧰 Skills & Tools
+🛠️ Tech & Tools
 
-- 💻 **Languages:** C, C++, Java (learning), Arduino IDE
-- 📦 **Platforms:** Arduino, ESP32, Raspberry Pi (soon!)
-- 🛠️ **Tools:** Git, Linux (Fedora), Fritzing, Tinkercad
+Programming
+C / C++ (Arduino Framework)
+Python (Basics – for AI & automation)
+Bash scripting
+Hardware
+ESP8266 / NodeMCU
+ESP32
+Arduino
+raspberrypie
+Software & Platforms
+Linux (Fedora)
+
+Git & GitHub
+
+Blynk IoT
+
+Arduino IDE
+
+VS Code
 
 ---
 
